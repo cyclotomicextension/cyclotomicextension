@@ -12,6 +12,6 @@
 - ⚡ Fun fact: I have recently started Boxing 🥊 and I cannot wait to start with archery 🏹 again!
 - 📫 You could reach me through my website (see link on the left column!).
 
-I recently made my first contribution on the implementation of Forward Forward Algorithm @Nebuly-ai 
+I recently made my first contribution on the implementation of Forward Forward Algorithm <a href="https://github.com/nebuly-ai/nebullvm/graphs/contributors" target="_blank">Nebuly-ai</a>
 
 Feel free to reach out to me for any collaboration!
